@@ -1,0 +1,3 @@
+ecosnail_project(
+    TESTS
+)
